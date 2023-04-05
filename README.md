@@ -1,2 +1,3 @@
 # cns practicals 
 client server app -> practical 3
+SO THE ROUTER SAID TO DOCTOR IT HURTS WHEN IP...
